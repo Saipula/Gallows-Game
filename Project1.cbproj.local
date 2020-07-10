@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.282,C:\Users\Персик\Documents\Lol kek\Виселеца\Main.dfm=C:\Users\Персик\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.808,=C:\Users\Персик\Documents\Lol kek\Виселеца\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.282,C:\Users\Персик\Documents\Lol kek\Виселеца\Main.h=C:\Users\Персик\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.903,=C:\Users\Персик\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.282,C:\Users\Персик\Documents\Lol kek\Виселеца\Main.cpp=C:\Users\Персик\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.093,C:\Users\Персик\Documents\Lol kek\Виселеца\Project1.cbproj=C:\Users\Персик\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.406,C:\Users\Персик\Documents\Lol kek\Виселеца\Project1PCH1.h=C:\Users\Персик\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.773,C:\Users\Персик\Documents\Lol kek\Виселеца\classes.h=C:\Users\Персик\Documents\Lol kek\Виселеца\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.543,=C:\Users\Персик\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020.04.18 14:11:37.675,=C:\Users\Персик\Documents\Курсачи\Виселеца\Unit1.cpp</Transaction>
+    <Transaction>2020.04.18 14:11:55.865,C:\Users\Персик\Documents\Курсачи\Виселеца\class.h=C:\Users\Персик\Documents\Курсачи\Виселеца\Unit1.h</Transaction>
+    <Transaction>2020.04.18 14:11:55.865,C:\Users\Персик\Documents\Курсачи\Виселеца\class.cpp=C:\Users\Персик\Documents\Курсачи\Виселеца\Unit1.cpp</Transaction>
+    <Transaction>2020.04.18 14:12:35.285,C:\Users\Персик\Documents\Курсачи\Виселеца\classes.h=</Transaction>
+  </Transactions>
+</BorlandProject>
