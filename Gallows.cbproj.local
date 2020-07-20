@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.406,C:\Users\Персик\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Персик\Documents\Lol kek\Виселеца\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.903,=C:\Users\Персик\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.282,C:\Users\Персик\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Персик\Documents\Lol kek\Виселеца\Main.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.285,C:\Users\Персик\Documents\Курсачи\Виселеца\classes.h=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.865,C:\Users\Персик\Documents\Курсачи\Виселеца\Unit1.h=C:\Users\Персик\Documents\Курсачи\Виселеца\class.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.093,C:\Users\Персик\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Персик\Documents\Lol kek\Виселеца\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.773,C:\Users\Персик\Documents\Lol kek\Виселеца\File1.h=C:\Users\Персик\Documents\Lol kek\Виселеца\classes.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.282,C:\Users\Персик\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Персик\Documents\Lol kek\Виселеца\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.543,=C:\Users\Персик\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.282,C:\Users\Персик\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Персик\Documents\Lol kek\Виселеца\Main.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.808,=C:\Users\Персик\Documents\Lol kek\Виселеца\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.865,C:\Users\Персик\Documents\Курсачи\Виселеца\Unit1.cpp=C:\Users\Персик\Documents\Курсачи\Виселеца\class.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.675,=C:\Users\Персик\Documents\Курсачи\Виселеца\Unit1.cpp</Transaction>
+    <Transaction>2020.07.20 10:36:47.972,C:\Users\Marshall\Documents\Курсачи\Gallows-Game\GallowsPCH1.h=C:\Users\Marshall\Documents\Курсачи\Gallows-Game\Project1PCH1.h</Transaction>
+    <Transaction>2020.07.20 10:36:48.239,C:\Users\Marshall\Documents\Курсачи\Gallows-Game\Gallows.cbproj=C:\Users\Marshall\Documents\Курсачи\Gallows-Game\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -5,6 +5,7 @@
 
 #include "Main.h"
 #include "class.h"
+#include <ctime>
 
 //---------------------------------------------------------------------------
 #pragma package(smart_init)
@@ -16,6 +17,8 @@ Game *game;
 __fastcall TForm1::TForm1(TComponent* Owner)
 	: TForm(Owner)
 {
+	srand(time(NULL));
+
 	ListBox1->Items->LoadFromFile("saves.txt", TEncoding::UTF8);
 	game = new Game(ListBox1);
 }
@@ -49,7 +52,7 @@ void __fastcall TForm1::N2Click(TObject *Sender)
 	else{
 		//Проверка на то, не пройден ли уровень раньше
 		if (game->slova[game->iter]->counter != 0)  {
-			ShowMessage("Вы проходили этот уровень!\nВы Можете его перепройти!");
+			ShowMessage("You win this level!\nYou Can Replay It!");
 		}
 	}
 }
@@ -91,8 +94,8 @@ void __fastcall TForm1::Edit1KeyUp(TObject *Sender, WORD &Key, TShiftState Shift
 
 		//Проверка на совпадения слова в Label1 и необходимого слова
 		if (game->provFull(Label1->Caption)){
-			ShowMessage("Вы прошли этот уровень за " +
-				IntToStr(game->slova[game->iter]->counter) + " ходов!");
+			ShowMessage("You completed this level in " +
+				IntToStr(game->slova[game->iter]->counter) + " turns!");
 
 			N2Click(Sender);
 		}

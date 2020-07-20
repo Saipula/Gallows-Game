@@ -3,7 +3,6 @@
 #ifndef classH
 #define classH
 
-#include <ctime>
 #include <vector>
 
 #include <System.Classes.hpp>

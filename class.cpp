@@ -7,7 +7,6 @@
 #pragma package(smart_init)
 
 void Game::next_lvl(){
-    srand(time(NULL));
 	iter = rand()%slova.size();
 }
 

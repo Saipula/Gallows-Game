@@ -9,6 +9,7 @@
 #include <Vcl.Forms.hpp>
 #include <Vcl.Menus.hpp>
 #include <Vcl.ExtCtrls.hpp>
+#include <Vcl.Imaging.jpeg.hpp>
 //---------------------------------------------------------------------------
 class TForm1 : public TForm
 {
@@ -24,6 +25,7 @@ __published:	// IDE-managed Components
 	TLabel *Label2;
 	TLabel *Label3;
 	TLabel *Label4;
+	TImage *Image1;
 	void __fastcall Button1Click(TObject *Sender);
 	void __fastcall N2Click(TObject *Sender);
 	void __fastcall RadioGroup1Click(TObject *Sender);
